@@ -42,6 +42,12 @@
     Необходимо указать url сайта! <not_url> - не url
      
 Примеры работы программы находятся в папке test 
+    Программа проверялась на страницах
+    
+    http://www.gazeta.ru/army/2016/04/03/8144843.shtml
+    http://zadolba.li/story/1
+    http://zadolba.li/story/684
+    http://lenta.ru/news/2016/04/03/stopfire
      
     
     
