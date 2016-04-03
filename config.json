@@ -1,0 +1,48 @@
+{
+  "zadolba.li": {
+    "name": "zadolba.li",
+    "parent": {
+      "tag":"div",
+      "attrs":"class:story"
+    },
+    "title": {
+      "tag":"h1",
+      "attrs":"{}"
+    },
+    "text": {
+      "tag":"div",
+      "attrs":"class:text"
+    }
+   },
+   "lenta.ru": {
+    "name": "lenta.ru",
+    "parent": {
+      "tag":"body",
+      "attrs":"{}"
+    },
+    "title": {
+      "tag":"h1",
+      "attrs":"class:b-topic__title"
+    },
+    "text": {
+      "tag":"div",
+      "attrs":"class:b-text clearfix"
+    }
+   },
+  "gazeta.ru": {
+    "name": "lenta.ru",
+    "parent": {
+      "tag":"body",
+      "attrs":"{}"
+    },
+    "title": {
+      "tag":"h2",
+      "attrs":"class:h_1 mt5 mb10"
+    },
+    "text": {
+      "tag":"div",
+      "attrs":"class:article_text txt_1"
+    }
+   }
+
+}
